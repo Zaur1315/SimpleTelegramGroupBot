@@ -1,4 +1,0 @@
-token = '5674598350:AAHtJHl-wmI7xlywNwyJJ5E1kyLKYXakORk'
-
-
-chat = 5245737622
